@@ -1,0 +1,3 @@
+#! /bin/bash
+
+llm -s "rewrite this article taking out all of the sensationalism and making it more fact based"
